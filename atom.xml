@@ -3,11 +3,11 @@
   <title>Ther&#39;s blog</title>
   
   
-  <link href="/keepinggg/atom.xml" rel="self"/>
+  <link href="/keepinggg%E3%80%82github.io/atom.xml" rel="self"/>
   
-  <link href="https://keepinggg.github.io/keepinggg/"/>
+  <link href="https://keepinggg.github.io/"/>
   <updated>2020-07-21T02:44:43.840Z</updated>
-  <id>https://keepinggg.github.io/keepinggg/</id>
+  <id>https://keepinggg.github.io/</id>
   
   <author>
     <name>zhangzhourui</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>The Second Article</title>
-    <link href="https://keepinggg.github.io/keepinggg/2020/07/21/second/"/>
-    <id>https://keepinggg.github.io/keepinggg/2020/07/21/second/</id>
+    <link href="https://keepinggg.github.io/2020/07/21/second/"/>
+    <id>https://keepinggg.github.io/2020/07/21/second/</id>
     <published>2020-07-21T02:24:30.000Z</published>
     <updated>2020-07-21T02:44:43.840Z</updated>
     
@@ -36,17 +36,17 @@
     </summary>
     
     
-      <category term="other" scheme="https://keepinggg.github.io/keepinggg/categories/other/"/>
+      <category term="other" scheme="https://keepinggg.github.io/categories/other/"/>
     
     
-      <category term="目录" scheme="https://keepinggg.github.io/keepinggg/tags/%E7%9B%AE%E5%BD%95/"/>
+      <category term="目录" scheme="https://keepinggg.github.io/tags/%E7%9B%AE%E5%BD%95/"/>
     
   </entry>
   
   <entry>
     <title>The First Article</title>
-    <link href="https://keepinggg.github.io/keepinggg/2020/04/19/first/"/>
-    <id>https://keepinggg.github.io/keepinggg/2020/04/19/first/</id>
+    <link href="https://keepinggg.github.io/2020/04/19/first/"/>
+    <id>https://keepinggg.github.io/2020/04/19/first/</id>
     <published>2020-04-19T04:52:28.000Z</published>
     <updated>2020-04-21T14:03:39.884Z</updated>
     
@@ -64,10 +64,10 @@
     </summary>
     
     
-      <category term="other" scheme="https://keepinggg.github.io/keepinggg/categories/other/"/>
+      <category term="other" scheme="https://keepinggg.github.io/categories/other/"/>
     
     
-      <category term="目录" scheme="https://keepinggg.github.io/keepinggg/tags/%E7%9B%AE%E5%BD%95/"/>
+      <category term="目录" scheme="https://keepinggg.github.io/tags/%E7%9B%AE%E5%BD%95/"/>
     
   </entry>
   
