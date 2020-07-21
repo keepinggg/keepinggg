@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Ther&#39;s blog</title>
   
   
   <link href="/keepinggg/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://keepinggg.github.io/keepinggg/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>zhangzhourui</name>
     
   </author>
   
